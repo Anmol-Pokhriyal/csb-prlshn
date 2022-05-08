@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anmol-pokhriyal.github.io/csb-prlshn/static/css/main.9062dec4.chunk.css",
+    "main.js": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/main.51b80932.chunk.js",
+    "main.js.map": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/main.51b80932.chunk.js.map",
+    "runtime-main.js": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/runtime-main.c30d36d6.js",
+    "runtime-main.js.map": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/runtime-main.c30d36d6.js.map",
+    "static/js/2.3cb23157.chunk.js": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/2.3cb23157.chunk.js",
+    "static/js/2.3cb23157.chunk.js.map": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/2.3cb23157.chunk.js.map",
+    "index.html": "https://anmol-pokhriyal.github.io/csb-prlshn/index.html",
+    "static/css/main.9062dec4.chunk.css.map": "https://anmol-pokhriyal.github.io/csb-prlshn/static/css/main.9062dec4.chunk.css.map",
+    "static/js/2.3cb23157.chunk.js.LICENSE.txt": "https://anmol-pokhriyal.github.io/csb-prlshn/static/js/2.3cb23157.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c30d36d6.js",
+    "static/js/2.3cb23157.chunk.js",
+    "static/css/main.9062dec4.chunk.css",
+    "static/js/main.51b80932.chunk.js"
+  ]
+}
